@@ -31,4 +31,5 @@ pnpm dev
 #### 1. 博客页面要展示侧边锚点目录，看我魔改 Element-Plus 的 Anchor 组件
 
 掘金地址：https://juejin.cn/post/7373226436570349583
+
 运行项目之后访问：http://localhost:5173/anchor-directory
