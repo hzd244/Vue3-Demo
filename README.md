@@ -28,8 +28,20 @@ pnpm dev
 
 ## 查看 Demo
 
-#### 1. 博客页面要展示侧边锚点目录，看我魔改 Element-Plus 的 Anchor 组件
+#### 1. Blog页面要展示锚点目录，组件库的Anchor组件不满足需求？
 
-掘金地址：https://juejin.cn/post/7373226436570349583
+掘金地址：xxxxxxxx
 
 运行项目之后访问：http://localhost:5173/anchor-directory
+
+#### 2. 无法复现生产BUG？rrweb录制用户行为助你排忧解难！
+
+掘金地址：https://juejin.cn/post/7372441501609721882
+
+运行项目之后访问：http://localhost:5173/rrweb-demo
+
+#### 3. 多线程做图片灰度化处理
+
+掘金地址：xxxxxxxx
+
+运行项目之后访问：http://localhost:5173/image-gray
