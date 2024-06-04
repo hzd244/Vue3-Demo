@@ -42,6 +42,7 @@ declare module 'vue-router/auto/routes' {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/anchor-directory/': RouteRecordInfo<'/anchor-directory/', '/anchor-directory', Record<never, never>, Record<never, never>>,
     '/hign-light/': RouteRecordInfo<'/hign-light/', '/hign-light', Record<never, never>, Record<never, never>>,
+    '/idle-optimize/': RouteRecordInfo<'/idle-optimize/', '/idle-optimize', Record<never, never>, Record<never, never>>,
     '/image-gray/': RouteRecordInfo<'/image-gray/', '/image-gray', Record<never, never>, Record<never, never>>,
     '/queue-modal/': RouteRecordInfo<'/queue-modal/', '/queue-modal', Record<never, never>, Record<never, never>>,
     '/rrweb-demo/': RouteRecordInfo<'/rrweb-demo/', '/rrweb-demo', Record<never, never>, Record<never, never>>,
