@@ -28,13 +28,13 @@ pnpm dev
 
 ## 查看 Demo
 
-#### 1. Blog页面要展示锚点目录，组件库的Anchor组件不满足需求？
+#### 1. Blog 页面要展示锚点目录，组件库的 Anchor 组件不满足需求？
 
 掘金地址：xxxxxxxx
 
 运行项目之后访问：http://localhost:5173/anchor-directory
 
-#### 2. 无法复现生产BUG？rrweb录制用户行为助你排忧解难！
+#### 2. 无法复现生产 BUG？rrweb 录制用户行为助你排忧解难！
 
 掘金地址：https://juejin.cn/post/7372441501609721882
 
@@ -45,3 +45,9 @@ pnpm dev
 掘金地址：xxxxxxxx
 
 运行项目之后访问：http://localhost:5173/image-gray
+
+#### 4. 前端性能优化系列——计算首屏渲染时间，为性能优化指明方向
+
+掘金地址：xxxxxxxx
+
+运行项目之后访问：http://localhost:5173/first-screen-paint
